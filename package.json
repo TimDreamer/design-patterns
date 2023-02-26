@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "proxy": "parcel ./src/proxy/index.html"
   },
   "keywords": [],
   "author": "",
